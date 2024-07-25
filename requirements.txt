@@ -1,0 +1,4 @@
+matplolib
+seaborn
+streamlit
+pandas
